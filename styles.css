@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+   
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+   
+  li {
+    background-color: #b3e2ed;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
